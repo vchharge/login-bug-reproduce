@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "350288204225",
+    "project_id": "bug-reproduce",
+    "storage_bucket": "bug-reproduce.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:350288204225:android:db0e160164b2ec20095f40",
+        "android_client_info": {
+          "package_name": "com.example.google_login_error"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "350288204225-kko254g9ojmtd7d0k06ksu25e2ld5j2b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCVSZg5_ge2EW7waqRicZGAjjgiCs9FVJk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "350288204225-kko254g9ojmtd7d0k06ksu25e2ld5j2b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
